@@ -1,0 +1,12 @@
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/wasm32-unknown-unknown/debug/deps/spki-84663eda7a057f41.rmeta: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md
+
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/wasm32-unknown-unknown/debug/deps/libspki-84663eda7a057f41.rlib: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md
+
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/wasm32-unknown-unknown/debug/deps/spki-84663eda7a057f41.d: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md
+
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md:

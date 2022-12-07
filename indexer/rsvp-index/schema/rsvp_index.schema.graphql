@@ -11,6 +11,6 @@ type CreatedEvent {
     event_id: UInt8!
     max_capacity: UInt8!
     deposit: UInt8!
-    owner: Address!
+    owner: Identity!
     rsvps: UInt8!
 }

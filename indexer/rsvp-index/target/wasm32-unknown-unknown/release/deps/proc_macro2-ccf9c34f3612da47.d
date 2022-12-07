@@ -1,0 +1,11 @@
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/wasm32-unknown-unknown/release/deps/proc_macro2-ccf9c34f3612da47.rmeta: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/marker.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/parse.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/rcvec.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/fallback.rs
+
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/wasm32-unknown-unknown/release/deps/libproc_macro2-ccf9c34f3612da47.rlib: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/marker.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/parse.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/rcvec.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/fallback.rs
+
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/wasm32-unknown-unknown/release/deps/proc_macro2-ccf9c34f3612da47.d: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/marker.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/parse.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/rcvec.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/fallback.rs
+
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/lib.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/marker.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/parse.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/rcvec.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.47/src/fallback.rs:

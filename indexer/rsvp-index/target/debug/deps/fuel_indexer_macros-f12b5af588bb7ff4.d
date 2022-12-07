@@ -1,0 +1,10 @@
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/debug/deps/libfuel_indexer_macros-f12b5af588bb7ff4.dylib: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/indexer.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/native.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/parse.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/schema.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/wasm.rs
+
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/debug/deps/fuel_indexer_macros-f12b5af588bb7ff4.d: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/indexer.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/native.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/parse.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/schema.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/wasm.rs
+
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/lib.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/indexer.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/native.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/parse.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/schema.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-macros-0.1.10/src/wasm.rs:

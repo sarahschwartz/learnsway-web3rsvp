@@ -1,0 +1,10 @@
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/debug/deps/fuel_indexer_schema-898bcf65c8ba0609.rmeta: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/directives.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/utils.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/./base.graphql
+
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/debug/deps/libfuel_indexer_schema-898bcf65c8ba0609.rlib: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/directives.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/utils.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/./base.graphql
+
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/debug/deps/fuel_indexer_schema-898bcf65c8ba0609.d: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/directives.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/utils.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/./base.graphql
+
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/lib.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/directives.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/utils.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/./base.graphql:

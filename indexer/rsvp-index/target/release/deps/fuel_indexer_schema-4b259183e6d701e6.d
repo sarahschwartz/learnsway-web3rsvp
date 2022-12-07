@@ -1,0 +1,10 @@
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/release/deps/fuel_indexer_schema-4b259183e6d701e6.rmeta: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/directives.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/utils.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/./base.graphql
+
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/release/deps/libfuel_indexer_schema-4b259183e6d701e6.rlib: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/directives.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/utils.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/./base.graphql
+
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/release/deps/fuel_indexer_schema-4b259183e6d701e6.d: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/directives.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/utils.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/./base.graphql
+
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/lib.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/directives.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/utils.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/./base.graphql:

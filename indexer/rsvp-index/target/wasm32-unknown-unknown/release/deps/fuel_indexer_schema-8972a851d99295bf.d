@@ -1,0 +1,10 @@
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/wasm32-unknown-unknown/release/deps/fuel_indexer_schema-8972a851d99295bf.rmeta: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/directives.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/utils.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/./base.graphql
+
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/wasm32-unknown-unknown/release/deps/libfuel_indexer_schema-8972a851d99295bf.rlib: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/directives.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/utils.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/./base.graphql
+
+/Users/sarah/Documents/Projects/learnsway-web3rsvp/indexer/rsvp-index/target/wasm32-unknown-unknown/release/deps/fuel_indexer_schema-8972a851d99295bf.d: /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/lib.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/directives.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/utils.rs /Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/./base.graphql
+
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/lib.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/directives.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/utils.rs:
+/Users/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-indexer-schema-0.1.10/src/./base.graphql:
